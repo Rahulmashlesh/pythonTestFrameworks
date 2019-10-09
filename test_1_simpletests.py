@@ -2,7 +2,6 @@
 # 	30 min interactive and simple python tutorial  
 #		-----> github.com/Rahulmashlesh/python-tutorial
 
-
 # list 
 def test_sum_true():
 	# true case

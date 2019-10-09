@@ -1,3 +1,8 @@
+# custome file
+*/flaskTests/*/**
+flaskTests/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

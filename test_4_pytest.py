@@ -23,3 +23,16 @@ def test_sum_tuple():
 
 # MOre about pytest: https://nose2.readthedocs.io/en/latest/
 # test cases need to be in the pattern test_*.py
+
+
+
+### want to learn more, ?
+# Test driven develpment TDD: https://realpython.com/courses/test-driven-development-pytest/
+# https://docs.python.org/3/library/unittest.html
+# https://nose2.readthedocs.io/en/latest/
+# https://docs.pytest.org/en/latest/
+
+
+
+# full credits to: find more info here:
+# 		https://realpython.com/python-testing/ 
